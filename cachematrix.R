@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## creates a "matrix" object that can cache its inverse (solve)
 ## creates 4 functions to get/set the matrix and it's inverse
 
